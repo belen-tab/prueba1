@@ -9,3 +9,22 @@ body {
 .rounded {
     height: 100px;
 }
+
+.iconos {
+    width: 35px;
+    padding-right: 10px;
+}
+
+.programas {
+    width: 200px;
+    height: 42px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.programas-seccion {
+    background-color: #fbfbfb;
+    padding: auto;
+}
