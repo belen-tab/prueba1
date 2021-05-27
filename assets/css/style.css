@@ -2,6 +2,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+header {
+    padding-top: 80px;
+}
+
 .logo-navbar {
     height: 35px;
 }
@@ -26,9 +30,18 @@ p {
 
 .programas-seccion {
     background-color: #fbfbfb;
-    padding: 15px;
+    padding: 20px;
 }
 
 .imagenes {
     height: 197px;
+}
+
+#quien-soy {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.servicios {
+    padding-bottom: 25px;
 }
