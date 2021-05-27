@@ -45,3 +45,9 @@ p {
 .servicios {
     padding-bottom: 25px;
 }
+
+#carousel-proyectos {
+  width: 380px;
+  height: 380px;
+  padding: 15px;
+}
