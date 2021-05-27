@@ -26,5 +26,9 @@ p {
 
 .programas-seccion {
     background-color: #fbfbfb;
-    padding: auto;
+    padding: 15px;
+}
+
+.imagenes {
+    height: 197px;
 }
