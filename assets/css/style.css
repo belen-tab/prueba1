@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background: #f3f3f3;
 }
 
 header {
@@ -52,4 +53,16 @@ p {
 
 .height-img{
     height: 350px; /* agregue esta clase para definir el alto a las imagenes y quite la clase d-block y w-100 que traia por defecto el carousel */
+}
+
+footer{
+    background: #ffffff;
+}
+
+.fab{
+    fill: #000000;
+}
+
+.logo-footer {
+    height: 80px;
 }
