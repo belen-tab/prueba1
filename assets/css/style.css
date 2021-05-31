@@ -56,6 +56,7 @@ p {
 }
 
 footer{
+    margin-top: 120px;
     background: #ffffff;
 }
 
@@ -65,4 +66,20 @@ footer{
 
 .logo-footer {
     height: 80px;
+}
+
+.texto-proyectos {
+    background: white;
+}
+
+.carousel-indicators {
+    top: 120%;
+}
+  
+.carousel-indicators li {
+    background-color: black;
+}
+
+.carousel {
+    height: 150px;
 }
